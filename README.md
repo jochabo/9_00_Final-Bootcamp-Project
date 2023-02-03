@@ -12,7 +12,7 @@ Check out my final project presentation for a quick overview or my tableau page 
 
 # 3. Data: 
 
-The sources are shown in the notebook as markdown cells.
+The used datasets are in the folder "collected datasets", additionally the sources are mentioned in the notebook as markdown cells.
 Sources include: OECD, Yahoo Finance, International Coffee Organization (ICO) and Nasa Weather API.
 
 # 4. Model:

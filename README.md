@@ -8,7 +8,7 @@ For my final project at the Ironhack Bootcamp I decided to analyse the coffee be
 
 # 2. Features: 
 
-Check out my final project presentation for a quick overview or my tableau page (https://public.tableau.com/views/FinalProjectBootcamp_Imports/Precipitation_Brazil?:language=en-US&:display_count=n&:origin=viz_share_link) to get some data evaluation insights. 
+Check out my [project presentation](https://github.com/jochabo/9_00_Final-Bootcamp-Project/blob/main/FinalProject-IronhackBootcamp.pdf) for a quick overview or my [Tableau page] (https://public.tableau.com/views/FinalProjectBootcamp_Imports/Precipitation_Brazil?:language=en-US&:display_count=n&:origin=viz_share_link) to get some data evaluation insights. 
 
 # 3. Data: 
 
